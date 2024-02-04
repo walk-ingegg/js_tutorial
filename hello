@@ -1,0 +1,3 @@
+#!/Users/horiokaito/.nodebrew/current/bin/node
+
+console.log("hello, world!");
